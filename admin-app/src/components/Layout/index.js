@@ -23,7 +23,6 @@ const Layout = (props) => {
                             </Col>
                             <Col md={10} style={{marginLeft: 'auto', paddingTop: '60px'}}>
                                 {props.children}
-                                <div></div>
                             </Col>
                         </Row>
                     </Container>
